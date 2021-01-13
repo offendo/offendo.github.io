@@ -20,7 +20,7 @@
 
 title: FNDO
 email:
-description: OFFENDO >- # this means to ignore newlines until "baseurl:"
+description: Paper Database
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://offend.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
@@ -30,6 +30,17 @@ github_username: offendo
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-archives
+
+jekyll-archives:
+  enabled: [month]
+  layout: archive
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
 
 # Exclude from processing.
 # The following items will not be processed, by default.
