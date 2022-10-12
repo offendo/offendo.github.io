@@ -15,14 +15,14 @@ profile:
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 I'm a first year PhD student working with Jeff Flanigan at UC Santa Cruz. I have a wide range of interests, but primarily work on fundamental problems in NLP such as compositionality and meaning representation.
 
 I also enjoy learning math and try my best to incorporate what I learn into my research, as I think it makes for more intuitive and perhaps more interpretable AI models. 
 
-You can reach me at `<firstname> at ucsc dot edu` or click the mail button at the bottom. 
+You can reach me at `<firstname> at ucsc dot edu` or click the mail button at the top left. 
 
 Things I like include:
   * Cooking & Baking

@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /publications/
-title: publications & preprints
+permalink: /papers/
+title: papers
 description: 
 nav: true
 nav_order: 1
 ---
-<!-- _pages/publications.md -->
+<!-- _pages/papers.md -->
 <div class="publications">
 {% bibliography %}
 <!-- {%- for y in page.years %} -->
