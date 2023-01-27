@@ -57,14 +57,14 @@
     - title: Natural Language Processing
       items:
         - Compositional models of language
-        - Meaning representations
+        - Autoformalization (translating human-legible math to a formalized language)
         - Machine translation, especially low-resource
     - title: Machine Learning
       items:
         - Interpretability and designing intuitive models
     - title: Mathematics (as a hobby)
       items:
-        - Statistics
+        - Statistics/Probability
         - Category Theory
 
 - title: Other interests
@@ -75,4 +75,5 @@
         <li>Formula 1 </li>
         <li>Dungeons & Dragons (and other tabletop games) </li>
         <li>Star Wars (and Trek) </li>
+        <li>Reading (especially Sci-Fi) </li>
       </ul>"
