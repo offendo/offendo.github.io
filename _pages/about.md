@@ -9,9 +9,9 @@ profile:
   image_circular: false # crops the image to make it circular
   caption: (that's me on the right)
   address: >
-    <p>Room #2321</p>
-    <p>3175 Bowers Ave</p>
-    <p>Santa Clara, CA 95054</p>
+    <p>I don't have an office</p>
+    <p>but I live somewhere in</p>
+    <p>Santa Cruz, CA.</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -29,19 +29,3 @@ mathematics into a formal language like Lean.
 
 I also enjoy learning math and try my best to incorporate what I learn into my research, as I think
 it makes for more intuitive and perhaps more interpretable AI models.
-
-### hobbies
-
-- Cooking & Baking
-- Video games of many sorts. Some favorites are
-  - Dark Souls (et al.)
-  - Return of the Obra Dinn
-  - Outer Wilds
-- Formula 1
-- Star Wars (and Trek, and sci-fi in general)
-- Reading. Some favorites are
-  - _Discworld_ (or anything by Terry Pratchett)
-  - _Lord of the Rings_ et al. (J.R.R. Tolkien)
-  - _Imperial Radch_ Trilogy (Ann Leckie)
-  - _Dune_ (Frank Herbert)
-  - Many _Star Wars_ books

@@ -25,9 +25,23 @@
       description:
         - "GPA: 3.70 (3.91 in major) <i>cum laude</i>"
 
-- title:
+- title: Graduate coursework
+  type: map
+  contents:
+    - name: Mathematics
+      value: Real Analysis, Measure Theory, Group & Ring Theory, Abstract Linear Algebra
+    - name: AI/NLP
+      value: NLP (I-III), Advanced Deep Learning, Data Wrangling
+    - name: Miscellaneous
+      value: Linguistics (for Computer Scientists), Advanced Algorithms
+
+- title: Work Experience
   type: time_table
   contents:
+    - title: Applied Scientist Intern
+      institution: Amazon Alexa AI
+      year: 2023
+      description: Working on state-of-the-art NLP/AI research in question answering.
     - title: Software Engineer
       institution: Cognitive GeoInterpretation Inc.
       year: 2020, 2021→2022
@@ -62,18 +76,8 @@
     - title: Machine Learning
       items:
         - Interpretability and designing intuitive models
+        - Reasoning (formal and commensense)
     - title: Mathematics (as a hobby)
       items:
         - Statistics/Probability
         - Category Theory
-
-- title: Other interests
-  type: list
-  contents:
-    - "Hobbies:<ul>
-        <li>Cooking/Baking </li>
-        <li>Formula 1 </li>
-        <li>Dungeons & Dragons (and other tabletop games) </li>
-        <li>Star Wars (and Trek) </li>
-        <li>Reading (especially Sci-Fi) </li>
-      </ul>"
