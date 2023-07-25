@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I'm a first year PhD student working with Jeff Flanigan at UC Santa Cruz.
+I'm a second year PhD student working with Jeff Flanigan at UC Santa Cruz.
 
 You can reach me at `<firstname> at ucsc dot edu` or by clicking the mail button at the top left.
 
