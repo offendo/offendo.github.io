@@ -19,7 +19,7 @@ I'm not the best, but I do a lot of baking when I can find people to help me eat
         {% include figure.html path="assets/img/one-croissant-2.jpg" title="Probably the best one I've ever made." class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-lg mb-4 mb-lg-0">
-        {% include figure.html path="assets/img/single-cookie.jpg" title="Photogenic cookie" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/single-cookie.jpg" title="Photogenic cookie." class="img-fluid rounded z-depth-1" %}
         {% include figure.html path="assets/img/pile-o-cookies.jpg" title="Pile of giant cookies." class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -28,7 +28,15 @@ I'm not the best, but I do a lot of baking when I can find people to help me eat
         {% include figure.html path="assets/img/lots-o-croissants.jpg" title="Several croissants. Looks good in the lighting." class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-lg mb-4 mb-lg-0">
-        {% include figure.html path="assets/img/unbaked-pie.jpg" title="(unbaked) Blueberry pie. Can't find the baked picture" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/unbaked-pie.jpg" title="(unbaked) Blueberry pie. Can't find the baked picture." class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg mb-4 mb-lg-0">
+        {% include figure.html path="assets/img/boule.jpg" title="A nice boule I made with actually decent scoring for once." class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-lg mb-4 mb-lg-0">
+        {% include figure.html path="assets/img/boule-crumb.jpg" title="Crumb shot of the boule." class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
