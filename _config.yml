@@ -7,24 +7,24 @@ first_name: Nilay
 middle_name: 
 last_name: Patel
 email: nilay@ucsc.com
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+description: Personal (academic) profile of Nilay Patel, PhD student at UCSC studying NLP and applications to mathematics (e.g., autoformalization and theorem proving).> # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
-keywords: nlp, ucsc, ai  # add your own keywords or leave empty
+keywords: nlp, ucsc, ai, mathematics, math, autoformalization, theorem proving, nilay, patel, santa cruz, treeformers, transformers
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: slug-icon.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://nilay.page # the base hostname & protocol for your site
 baseurl:
-last_updated: false # set to true if you want to display last updated in the footer
-impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
+last_updated: true # set to true if you want to display last updated in the footer
+impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
 
 # code highlighter theme
-highlight_theme_light: emacs   # https://github.com/jwarby/jekyll-pygments-themes
+highlight_theme_light: native   # https://github.com/jwarby/jekyll-pygments-themes
 highlight_theme_dark: native    # https://github.com/jwarby/jekyll-pygments-themes
 
 # repo color theme
@@ -106,7 +106,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Some stuff # blog_name will be displayed in your blog page
+blog_name: Stuff # blog_name will be displayed in your blog page
 blog_nav_title: # your blog must have a title for it to be displayed in the nav bar
 blog_description:
 permalink: /blog/:year/:title/

@@ -71,7 +71,8 @@
     - title: Natural Language Processing
       items:
         - Compositional models of language
-        - Autoformalization (translating human-legible math to a formalized language)
+        - Autoformalization (translating natural-language math to a formalized language)
+        - Automated Theorem Proving
         - Machine translation, especially low-resource
     - title: Machine Learning
       items:
