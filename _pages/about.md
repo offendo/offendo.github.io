@@ -9,12 +9,10 @@ profile:
   image_circular: false # crops the image to make it circular
   caption: (that's me on the right)
   address: >
-    <p>I don't have an office</p>
-    <p>but I live somewhere in</p>
-    <p>Santa Cruz, CA.</p>
+    <p>I don't have an office, but you can find me in Santa Clara, CA</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
