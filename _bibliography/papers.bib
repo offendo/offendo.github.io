@@ -2,7 +2,6 @@
 ---
 
 @article{patel2019recommendation,
-  abbr            = {arXiv},
   preview         = {tensor.png},
   bibtex_show     = {true},
   title           = {Recommendation Algorithms for Student Evaluation Data},
@@ -10,12 +9,13 @@
   url             =
                   {http://purl.flvc.org/fsu/fd/FSU_libsubv1_scholarship_submission_1575654175_7be86503},
   year            = 2019,
-  month           = 6
+  month           = 6,
 }
 
 @misc{patel2023forming,
   title           = {Forming Trees with Treeformers},
   author          = {Nilay Patel and Jeffrey Flanigan},
+  bibtex_show     = {true},
   year            = 2023,
   month           = 9,
   eprint          = {2207.06960},
@@ -23,7 +23,21 @@
   primaryClass    = {cs.CL},
   url             = {https://arxiv.org/abs/2207.06960},
   selected        = true,
-  preview         = {treeformer.png}
+  preview         = {treeformer.png},
+  arxiv           = {true},
+  abstract        = {Human language is known to exhibit a nested, hierarchical structure, allowing
+                  us to form complex sentences out of smaller pieces. However, many state-of-the-art
+                  neural networks models such as Transformers have no explicit hierarchical
+                  structure in its architecture -- that is, they don't have an inductive bias toward
+                  hierarchical structure. Additionally, Transformers are known to perform poorly on
+                  compositional generalization tasks which require such structures. In this paper,
+                  we introduce Treeformer, a general-purpose encoder module inspired by the CKY
+                  algorithm which learns a composition operator and pooling function to construct
+                  hierarchical encodings for phrases and sentences. Our extensive experiments
+                  demonstrate the benefits of incorporating hierarchical structure into the
+                  Transformer and show significant improvements in compositional generalization as
+                  well as in downstream tasks such as machine translation, abstractive
+                  summarization, and various natural language understanding tasks.}
 }
 
 @article{patel2023new,
@@ -34,5 +48,21 @@
   journal         = {arXiv preprint arXiv: 2310.07957},
   url             = {https://arxiv.org/abs/2310.07957},
   selected        = true,
-  preview         = {lean.png}
+  preview         = {lean.png},
+  bibtex_show     = {true},
+  arxiv           = {https://arxiv.org/abs/2207.06960},
+  abstract        = {Verifying mathematical proofs is difficult, but can be automated with the
+                  assistance of a computer. Autoformalization is the task of automatically
+                  translating natural language mathematics into a formal language that can be
+                  verified by a program. This is a challenging task, and especially for higher-level
+                  mathematics found in research papers. Research paper mathematics requires large
+                  amounts of background and context. In this paper, we propose an avenue towards
+                  tackling autoformalization for research-level mathematics, by breaking the task
+                  into easier and more approachable subtasks: unlinked formalization (formalization
+                  with unlinked definitions and theorems), entity linking (linking to the proper
+                  theorems and definitions), and finally adjusting types so it passes the type
+                  checker. In addition, we present arXiv2Formal, a benchmark dataset for unlinked
+                  formalization consisting of 50 theorems formalized for the Lean theorem prover
+                  sampled from papers on arXiv.org. We welcome any contributions from the community
+                  to future versions of this dataset.}
 }
