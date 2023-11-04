@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I'm a second year PhD student working with Jeff Flanigan at UC Santa Cruz.
+I'm a second year PhD student working with Jeff Flanigan at UC Santa Cruz. I also am working on the open-domain web QA team at Amazon as an Applied Scientist Intern (until Dec 2023).
 
 You can reach me at `<firstname> at ucsc dot edu` or by clicking the mail button at the top left.
 

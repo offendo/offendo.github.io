@@ -39,7 +39,7 @@
   type: time_table
   contents:
     - title: Applied Scientist Intern
-      institution: Amazon Alexa AI
+      institution: Amazon AI
       year: 2023
       description: Working on state-of-the-art NLP/AI research in question answering.
     - title: Software Engineer
