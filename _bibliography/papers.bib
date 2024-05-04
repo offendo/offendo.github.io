@@ -9,33 +9,34 @@
   month           = 6,
 }
 
-@misc{patel2023forming,
-  title           = {Forming Trees with Treeformers},
-  author          = {Nilay Patel and Jeffrey Flanigan},
-  bibtex_show     = {true},
-  year            = 2023,
-  month           = 10,
-  eprint          = {2218.6972},
-  archivePrefix   = {arXiv},
-  primaryClass    = {cs.CL},
-  url             = {https://arxiv.org/abs/2220.6974},
-  booktitle       = {RANLP},
-  selected        = true,
-  preview         = {treeformer.png},
-  arxiv           = {true},
-  abstract        = {Human language is known to exhibit a nested, hierarchical structure, allowing
+@inproceedings{patel-flanigan-2023-forming,
+  title           = "Forming Trees with Treeformers",
+  author          = "Patel, Nilay and Flanigan, Jeffrey",
+  editor          = "Mitkov, Ruslan and Angelova, Galia",
+  booktitle       = "Proceedings of the 14th International Conference on Recent Advances in Natural
+                  Language Processing",
+  month           = sep,
+  year            = "2023",
+  address         = "Varna, Bulgaria",
+  publisher       = "INCOMA Ltd., Shoumen, Bulgaria",
+  url             = "https://aclanthology.org/2023.ranlp-1.90",
+  pages           = "836--845",
+  abstract        = "Human language is known to exhibit a nested, hierarchical structure, allowing
                   us to form complex sentences out of smaller pieces. However, many state-of-the-art
                   neural networks models such as Transformers have no explicit hierarchical
-                  structure in its architecture -- that is, they don't have an inductive bias toward
-                  hierarchical structure. Additionally, Transformers are known to perform poorly on
-                  compositional generalization tasks which require such structures. In this paper,
-                  we introduce Treeformer, a general-purpose encoder module inspired by the CKY
-                  algorithm which learns a composition operator and pooling function to construct
-                  hierarchical encodings for phrases and sentences. Our extensive experiments
-                  demonstrate the benefits of incorporating hierarchical structure into the
-                  Transformer and show significant improvements in compositional generalization as
-                  well as in downstream tasks such as machine translation, abstractive
-                  summarization, and various natural language understanding tasks.}
+                  structure in their architecture{---}that is, they don{'}t have an inductive bias
+                  toward hierarchical structure. Additionally, Transformers are known to perform
+                  poorly on compositional generalization tasks which require such structures. In
+                  this paper, we introduce Treeformer, a general-purpose encoder module inspired by
+                  the CKY algorithm which learns a composition operator and pooling function to
+                  construct hierarchical encodings for phrases and sentences. Our extensive
+                  experiments demonstrate the benefits of incorporating hierarchical structure into
+                  the Transformer and show significant improvements in compositional generalization
+                  as well as in downstream tasks such as machine translation, abstractive
+                  summarization, and various natural language understanding tasks.",
+  selected        = true,
+  bibtex_show     = {true},
+  preview         = {treeformer.png},
 }
 
 @article{patel2023new,
