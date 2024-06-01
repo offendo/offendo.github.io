@@ -10,6 +10,14 @@ nav_order: 1
 ### Baking
 I'm not the best, but I do a lot of baking when I can find people to help me eat the goodies.
 <div class="row">
+    <div class="col-lg mb-4 mb-lg-0">
+        {% include figure.html path="assets/img/sunny-croissant.jpg" title="First batch of croissants in Sunnyvale." class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-lg mb-4 mb-lg-0">
+        {% include figure.html path="assets/img/sunny-croissant-crumb.jpg" title="(unbaked) Decent crumb from the my first batch of croissants in Sunnyvale." class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
     <div class="col-lg col-md-12 mb-4 mb-lg-0">
         {% include figure.html path="assets/img/bagels.jpg" title="Nine great bagels and one slightly burnt bagel." class="img-fluid rounded z-depth-1" %}
         {% include figure.html path="assets/img/bread.jpg" title="Sourdough bread, not the best scoring, but still looks nice." class="img-fluid rounded z-depth-1" %}

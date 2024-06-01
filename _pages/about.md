@@ -7,7 +7,8 @@ profile:
   align: right
   image: prof_pic_2024.jpg
   image_circular: false # crops the image to make it circular
-  caption: (that's me on the left)
+  caption: > 
+    (I'm on the left)
   address: >
     <p>I don't have an office, but you can find me in Santa Clara, CA</p>
 
