@@ -5,10 +5,10 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic_2024.jpg
+  image: me-n-deer.jpg
   image_circular: false # crops the image to make it circular
   caption: > 
-    (I'm on the left)
+    Deer trying to steal my food.
   address: >
     <p>I don't have an office, but you can find me in Santa Clara, CA</p>
 
