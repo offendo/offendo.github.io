@@ -10,7 +10,7 @@ profile:
   caption: > 
     Deer trying to steal my food.
   address: >
-    <p>I don't have an office, but you can find me in Santa Clara, CA</p>
+    <p>I don't have an office, but you can find me in San Francisco, CA</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
