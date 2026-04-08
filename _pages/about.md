@@ -17,9 +17,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I'm a second year PhD student working with Jeff Flanigan at UC Santa Cruz. Previously I worked at
-Amazon AI with the AGI team on problems in open-domain QA. Previously previously I worked on
-computer vision, specifically semantic segmentation with Piyush Kumar at CGI. 
+I'm a fourth year PhD student working with Jeff Flanigan at UC Santa Cruz. Previously I worked at
+* Google AI on tool calling with Gemma/Gemini.
+* Amazon AI with the AGI team on problems in open-domain QA.
+* CGI with Piyush Kumar on computer vision, specifically semantic segmentation.
 
 You can reach me at `<firstname> at ucsc dot edu` or by clicking the mail button at the top left.
 
