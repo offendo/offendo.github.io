@@ -11,6 +11,14 @@ nav_order: 1
 I'm not the best, but I do a lot of baking when I can find people to help me eat the goodies.
 <div class="row">
     <div class="col-lg mb-4 mb-lg-0">
+        {% include figure.html path="assets/img/choccy-crumb.jpg" title="Chocolate croissant crumb. Probably the best I've ever made." class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-lg mb-4 mb-lg-0">
+        {% include figure.html path="assets/img/ham-n-cheese.jpg" title="Ham and cheese croissant. Not as photogenic but really tasty." class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg mb-4 mb-lg-0">
         {% include figure.html path="assets/img/sunny-croissant.jpg" title="First batch of croissants in Sunnyvale." class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-lg mb-4 mb-lg-0">
@@ -50,7 +58,7 @@ I'm not the best, but I do a lot of baking when I can find people to help me eat
 
 ### Video games
 Especially enjoy a challenge and a good story. Dark Souls, Return of the Obra Dinn, and Outer Wilds
-are some recent(ish) favorites of mine.
+are some recent (not so recent) favorites of mine. Slay the Spire (I/II) are wonderful.
 
 ### Reading
 * _Discworld_ (or anything by Terry Pratchett)
@@ -58,8 +66,9 @@ are some recent(ish) favorites of mine.
 * _Imperial Radch_ Trilogy (Ann Leckie)
 * _Dune_ (Frank Herbert)
 * Many _Star Wars_ books
+* Some less brainrot stuff. I like Ursula Le Guin, Steinbeck, Ishiguro, Larry McMurty, and many others.
 
 ### Other stuff
 * Formula 1
 * I enjoy space operas (e.g., Star Wars) and a lot of sci-fi
-* I play Dungeons & Dragons (and a few other TTRPGs)
+* I play Dungeons & Dragons (and a few other TTRPGs) and a lot of boardgames.
