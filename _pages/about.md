@@ -22,11 +22,11 @@ I'm a fourth year PhD student working with Jeff Flanigan at UC Santa Cruz. Previ
 * Amazon AI with the AGI team on problems in open-domain QA.
 * CGI with Piyush Kumar on computer vision, specifically semantic segmentation.
 
-You can reach me at `<firstname> at ucsc dot edu` or by clicking the mail button at the top left.
-
 ### research interests
-I have a wide range of interests, but primarily work in the intersection of mathematics and AI/NLP
-on problems such as automated theorem proving and autoformalization. Currently I am working on a
-project in autoformalization of mathematics into a formal language like Lean.
+I have a wide range of interests, but primarily work in the intersection of
+mathematics and AI, e.g., **automated theorem proving** and **autoformalization**.
 
-I also enjoy learning math and applying it in fun/novel ways to AI.
+### contact
+You can reach me at `<firstname> at ucsc dot edu` or by clicking the mail
+button at the top left, or on discord by clicking the discord button.
+

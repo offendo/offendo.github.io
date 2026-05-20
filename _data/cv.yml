@@ -13,17 +13,13 @@
       institution: University of California, Santa Cruz
       year: 2022→
       description:
-        - Working with Jeff Flanigan and JLab on NLP problems
+        - Studying AI for theorem proving and autoformalization.
     - title: M.S. in Natural Language Processing
       institution: University of California, Santa Cruz
       year: 2020→2021
-      description:
-        - "GPA: 3.93"
     - title: B.S. in Computer Science, Applied Math
       institution: Florida State Univeristy
       year: 2016→2020
-      description:
-        - "GPA: 3.70 (3.91 in major) <i>cum laude</i>"
 
 - title: Graduate coursework
   type: map
